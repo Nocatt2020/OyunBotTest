@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+ git clone https://github.com/aykhan026/OyunBotTest
 TOKEN = "5499431212:AAF3wX-eKk6Yev-SrU7SDNTTwKcgbPSDRws"
-with open('words.txt', 'r', encoding='utf-8') as file:
-    word_list = file.read().splitlines()
+pip3 install -r requirements.txt
+    python3 main.py
